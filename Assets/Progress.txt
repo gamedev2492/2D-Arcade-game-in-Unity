@@ -1,0 +1,4 @@
+Remaining things
+- perfect hit, add extra score
+- blast circle when gameover
+- 
